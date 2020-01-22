@@ -98,7 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
       if (taskModel != null && isTaskFetched == true) {
 
-        print("执行拉取的请求===========");
+        //print("执行拉取的请求===========");
         execTask();
 
       }
@@ -110,7 +110,7 @@ class _MyHomePageState extends State<MyHomePage> {
   void fetchTask() async {
 
     widget.channel.sink.add("DDhttp");
-    print("拉取请求=================");
+    //print("拉取请求=================");
 
 
   }
