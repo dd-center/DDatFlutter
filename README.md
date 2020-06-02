@@ -2,6 +2,15 @@
 Language: [English](https://github.com/dd-center/DDatFlutter/blob/master/README-en.md) | [中文简体](https://github.com/dd-center/DDatFlutter/blob/master/README.md)
 
 > 为DD准备的移动DD
+## 说明
+`DDatFlutter` 采用自选方案，不针对平台提供通用方案，请自行发现最适合DD自己的定制apk
+
+> Android
+v8a: 2015年之后机型采用构架
+v7a: 2015年之前机型采用构架
+x86_64: Android平板
+
+
 
 ## 最新动态
 ### 🔥 `DDatFlutter` 项目已经启动
