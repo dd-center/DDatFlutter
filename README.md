@@ -1,9 +1,9 @@
-﻿# DDatFlutter
-Language: [English](https://github.com/dd-center/DDatFlutter/blob/master/README-en.md) | [中文简体](https://github.com/dd-center/DDatFlutter/blob/master/README.md)
+﻿# Vtb-Mobile
+Language: [English](https://github.com/dd-center/Vtb-Mobile/blob/master/README-en.md) | [中文简体](https://github.com/dd-center/Vtb-Mobile/blob/master/README.md)
 
-> 为DD准备的移动DD
+> Vtb-Moblie
 ## 说明
-`DDatFlutter` 采用自选方案，不针对平台提供通用方案，请自行发现最适合DD自己的定制apk
+`Vtb-Moblie` 采用自选方案，不针对平台提供通用方案，请自行发现最适合自己的定制apk
 
 > Android
 - v8a: 2015年之后机型采用构架
@@ -13,8 +13,8 @@ Language: [English](https://github.com/dd-center/DDatFlutter/blob/master/README-
 
 
 ## 最新动态
-### 🔥 `DDatFlutter` 项目已经启动
-> DDatFlutter，在2020年的新特性有:
+### 🔥 `Vtb-Mobile` 项目已经启动
+> Vtb-Mobile，在2020年的新特性有:
 
 <h6>注：✔是本次发布内容</h6>
 
@@ -22,14 +22,14 @@ Language: [English](https://github.com/dd-center/DDatFlutter/blob/master/README-
 
 ## 三方共建说明
  
-由于 **DDatFlutter** 内容更新较快. 我们无法更快的丰富项目的内容. 如果您愿意为DDatFlutter的发展与学习贡献自己的力量, 请参考我们的 [共建说明], 我们会将共建者的头像姓名贡献至我们的官网. 
+由于 **Vtb-Mobile** 内容更新较快. 我们无法更快的丰富项目的内容. 如果您愿意为Vtb-Mobile的发展与学习贡献自己的力量, 请参考我们的 [共建说明], 我们会将共建者的头像姓名贡献至我们的官网. 
 
 
 
 ## 版本更新历史
 > 按时间顺序,展示重要的提交更新内容。
 
-[地址](https://github.com/dd-center/DDatFlutter/commits/master)
+[地址](https://github.com/dd-center/ddatflutter/commits/master)
 
 ## 开发规范
 > 由于类似 javascript, java, object-c,等开发者的语言习惯不同而产生歧义，我们依据官方提供的 [dart 语言规范](https://www.dartlang.org) 定制。

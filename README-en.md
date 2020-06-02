@@ -1,10 +1,9 @@
-﻿# DDatFlutter
-[中文简体](https://github.com/dd-center/DDatFlutter/blob/master/README.md) | Language: [English](https://github.com/dd-center/DDatFlutter/blob/master/README-en.md)
+﻿# Vtb-Moblie
+[中文简体](https://github.com/dd-center/Vtb-Moblie/blob/master/README.md) | Language: [English](https://github.com/dd-center/Vtb-Moblie/blob/master/README-en.md)
 
-> An Mobile Flutter App for DD
-
+> Vtb-Mobile
 ## Information
-`DDatFlutter` have various options in multiple platform，not aim to single platform with a general solution，please find the apk that own DD yourself.
+`Vtb-Moblie` have various options in multiple platform，not aim to single platform with a general solution，please find the apk that own yourself.
 
 > Android
 - v8a: For various Android mobile since 2015
@@ -12,8 +11,8 @@
 - x86_64: For Android table
 
 ## News
-### 🔥 `DDatFlutter` has been launched 
-> DDatFlutter, for the 2020, the new feature is:
+### 🔥 `Vtb-Moblie` has been launched 
+> Vtb-Moblie, for the 2020, the new feature is:
 
 <h6>mark：✔ is this version</h6>
 
@@ -21,11 +20,11 @@
 
 ## Third part build
 
-Because the content of ** DDatFlutter ** is updated faster, we can't enrich the content of the project faster, If you are willing to contribute to the development and learning of DDatFlutter, please see the [build instructions] before you start, we will put the builder's avatar and nick to the websit.
+Because the content of ** Vtb-Moblie ** is updated faster, we can't enrich the content of the project faster, If you are willing to contribute to the development and learning of Vtb-Moblie, please see the [build instructions] before you start, we will put the builder's avatar and nick to the websit.
 
 ## Logs
 
-[resource](https://github.com/dd-center/DDatFlutter/commits/master)
+[resource](https://github.com/dd-center/ddatflutter/commits/master)
 
 ## Development specification
 > we are based on the offical [dart language specification](https://www.dartlang.org)。
