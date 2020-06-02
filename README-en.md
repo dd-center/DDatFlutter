@@ -7,9 +7,9 @@
 `DDatFlutter` have various options in multiple platform，not aim to single platform with a general solution，please find the apk that own DD yourself.
 
 > Android
-v8a: For various Android mobile since 2015
-v7a: For various Android mobile before 2015
-x86_64: For Android table
+- v8a: For various Android mobile since 2015
+- v7a: For various Android mobile before 2015
+- x86_64: For Android table
 
 ## News
 ### 🔥 `DDatFlutter` has been launched 
