@@ -6,9 +6,9 @@ Language: [English](https://github.com/dd-center/DDatFlutter/blob/master/README-
 `DDatFlutter` 采用自选方案，不针对平台提供通用方案，请自行发现最适合DD自己的定制apk
 
 > Android
-v8a: 2015年之后机型采用构架
-v7a: 2015年之前机型采用构架
-x86_64: Android平板
+- v8a: 2015年之后机型采用构架
+- v7a: 2015年之前机型采用构架
+- x86_64: Android平板
 
 
 
