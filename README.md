@@ -34,8 +34,6 @@ x86_64: Android平板
 ## 开发规范
 > 由于类似 javascript, java, object-c,等开发者的语言习惯不同而产生歧义，我们依据官方提供的 [dart 语言规范](https://www.dartlang.org) 定制。
 
-[外部链接:<< Flutter Go 开发规范 >>](https://github.com/alibaba/flutter-go/blob/develop/DDatFlutter%20%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.md)
-
 ## 运行方式
 
 - 查看一下版本号是否正确

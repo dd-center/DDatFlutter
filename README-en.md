@@ -30,8 +30,6 @@ Because the content of ** DDatFlutter ** is updated faster, we can't enrich the 
 ## Development specification
 > we are based on the offical [dart language specification](https://www.dartlang.org)。
 
-[external link:<< Flutter Go development specification >>](https://github.com/alibaba/flutter-go/blob/develop/DDatFlutter%20%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.md)
-
 ## How to use
 
 - checkout version
